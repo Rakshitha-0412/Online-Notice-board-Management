@@ -111,10 +111,7 @@ $dbname = "notice_board";
 <h2>📸 Screenshots</h2>
 
 <h3>🔹 Homepage</h3>
-<img src="" alt="Homepage" width="600px">
-
-<h3>🔹 Admin Panel</h3>
-<img src="" alt="Admin Panel" width="600px">
+<img src="amc1.png" alt="Homepage" width="600px">
 
 <hr>
 
